@@ -26,7 +26,7 @@ The resulting best model weights are stored in the file resnet50_mask_best.pth a
 
 ## Installation
 
-Warning: the repo takes a long time to download - contains large 'datasets' folder(13,000+ files (758 MB) tracked via Git LFS) and heavy model weights file(resnet50_mask_best.pth is ~90 MB tracked with LFS).
+Warning: the repo takes a long time to download - contains large 'datasets' folder(13,000+ files (758 MB) tracked via Git LFS) and heavy model weights file(resnet50_mask_best.pth is ~90 MB tracked with LFS). Be patient.
 
 To set up the application, please follow these steps:
 
