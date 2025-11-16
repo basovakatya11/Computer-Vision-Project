@@ -1,1 +1,2 @@
 datasets/** filter=lfs diff=lfs merge=lfs -text
+resnet50_mask_best.pth filter=lfs diff=lfs merge=lfs -text
