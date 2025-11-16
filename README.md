@@ -21,9 +21,12 @@ The ResNet50 model, pre-trained on ImageNet, was fine-tuned for mask classificat
 
 Within project, the dataset is organized into directories: 'datasets/train', 'datasets/val', 'datasets/test'.
 
+The training code is located in the file resnet50_mask_train.py.
 The resulting best model weights are stored in the file resnet50_mask_best.pth and are used for inference during system execution.
 
 ## Installation
+
+Warning: the repo takes a long time to download - contains large 'datasets' folder(13,000+ files (758 MB) tracked via Git LFS) and heavy model weights file(resnet50_mask_best.pth is ~90 MB tracked with LFS).
 
 To set up the application, please follow these steps:
 
